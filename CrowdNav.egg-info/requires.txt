@@ -1,0 +1,5 @@
+msgpack-python
+colorama
+kafka-python
+Dijkstar
+paho-mqtt
