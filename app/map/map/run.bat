@@ -1,0 +1,1 @@
+sumo -c osm.sumocfg --fcd-output ../fcd-output.xml --end 1800 
