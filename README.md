@@ -9,6 +9,7 @@ In this project, we worked on Pedestrian Path Prediction.
 
 ### Minimal Setup
 * Download the Pedestrians_traffic_Analytics code
+* Run `git lfs pull ` 
 * Run `python setup.py install` to download all dependencies 
 * Install [SUMO](http://sumo.dlr.de) & set env var SUMO_HOME
    1. Download SUMO from http://prdownloads.sourceforge.net/sumo/sumo-src-0.32.0.zip?download
