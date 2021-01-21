@@ -1,6 +1,6 @@
 # Pedestrians_traffic_Analytics
 
-![Pedestrians](https://raw.githubusercontent.com/Starofall/CrowdNav/master/Image1.jpg)
+![Pedestrians](https://github.com/Farah-Oubelkas/Pedestrians_traffic_Analytics/blob/main/Image1.jpg)
 
 
 ### Description
